@@ -2,7 +2,7 @@
   workflows:
   name: Assembly_QC
     subclass: WDL
-    primaryDescriptorPath:/Workflows/CAMRA_QC_WF.wdl
+    primaryDescriptorPath:/CAMRA_QC_WF.wdl
     authors:
       - name: Daniella Matute
         email: dmatute@jcvi.org
