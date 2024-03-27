@@ -6,8 +6,3 @@ workflows:
      authors:
       - name: Daniella Matute
         email: dmatute@jcvi.org
-     filters:
-        branches: 
-            - master
-        tags:
-            - /.*/
